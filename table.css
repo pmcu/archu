@@ -4,6 +4,9 @@ font-family: Verdana;
 border: 1px solid;
 padding: 10px;
 }
+body{
+background-color:#b4b4b4;
+}
 table{
 width: 90%;
 border-collapse: collapse;
